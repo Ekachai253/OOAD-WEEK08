@@ -1,5 +1,54 @@
 # OOAD-WEEK08
+## ส่งการบ้าน เรื่อง Usecese diadram นายเอกชัย ภมรสุขนิรันดิ์ 57030253
 
+# Usecese diadram 1.ใช้รถยนต์
+...
+(Drive a car) <-- caruser
+(shift gears) <-- caruser
+(brake) <-- caruser
+(Turn left and Turn right) <-- caruser
+(reverse) <-- caruser
+(forward) <-- caruser
+...
+![](http://www.plantuml.com/plantuml/img/qt0foYnBLKXKI4uiqbImqTK5CKgBKukuD8epCjDA5D9J4ukAqMIIYXApKz74GagByXHoKe4w4lDI5C2yeipqZ18qPKMfPQb5nUYQq_ABoXEBKb150G00)
+
+# Usecese diadram 2.ใช้โทรศัพท์มือถือ
+...
+(phone) <-- Userofsmartphone
+(listen to music) <-- Userofsmartphone
+(play game) <-- Userofsmartphone
+(Selfie) <-- Userofsmartphone
+(Social networks) <-- Userofsmartphone
+...
+![](http://www.plantuml.com/plantuml/img/qoZ8oCzBrLImqTLL22rEBSfFAyvDB2e1Yt9fv6GMbwJcAPJaA-IM5cScur9Ma9DOgP2Uc8lJdE3KdBHCtBBvoPc9EGfvgINb-KNPnJYK0G00)
+
+# Usecese diadram 3.ใช้สนามบาส
+...
+(play basketball) <-- userBasketballfield
+(knock the ball) <-- userBasketballfield
+(Play team) <-- userBasketballfield
+(Dribbling Basketball) <-- userBasketballfield
+...
+![](http://www.plantuml.com/plantuml/img/qoZ8IQnKI4eipaujIKhCoT5KiD7LLIWjJYroWekbPQRcf71fPEVb9sShb6IaAX1G600oiYGrCHUF6fUYpAIadCoyT0KdmdO30000)
+
+# Usecese diadram 4.ใช้ตู้เติมเงิน
+...
+(putting money) <-- UserPrepaidPhones
+(Enter your phonenumber) <-- UserPrepaidPhones
+(amount money) <-- UserPrepaidPhones
+(price) <-- UserPrepaidPhones
+...
+![](http://www.plantuml.com/plantuml/img/qoWeBId9p4jNoCtFIwtKLB3HrLK8BKuj2YXABKZCJ0d800eNSscuvfMa5YbKvfSMAHI0XF9ASvDIYt0gJypDByqh8M1cGL5cSYeEMG00)
+
+# Usecese diadram 5.ใช้คอมพิวเตอร์
+...
+(play game) <-- Usercomputer
+(music) <-- Usercomputer
+(work) <-- Usercomputer
+(networks) <-- Usercomputer
+(off on) <-- Usercomputer
+...
+![](http://www.plantuml.com/plantuml/img/qoZ8IQnKI4_CJTLKiD7LLGWjJYrApiyjA2r9BUBIo2qjpap69b6UNvIDJJmljGGaLOnDBZyjJI4_3rC60000)
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
 
